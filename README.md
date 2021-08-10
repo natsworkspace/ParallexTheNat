@@ -1,2 +1,3 @@
-I am a self taught, C# game developer.
+C# game developer
 Indie Programmer
+
