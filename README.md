@@ -1,4 +1,4 @@
-Javascript backend developer |
+Javascript Developer |
 Started 10.1.22 (javascript)
 
 Python Developer | 
