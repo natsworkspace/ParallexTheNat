@@ -1,8 +1,6 @@
-Javascript Developer |
-Started 10.1.22 (javascript)
+Javascript Developer
 
-Python Developer | 
-Started 10.9.19 (python)
+Python Developer 
 
 Simple understanding of HTML, CSS#
 
