@@ -12,4 +12,3 @@ Im learning full stack development
   
     CSS
 
-https://natdev.uk
