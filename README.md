@@ -4,12 +4,12 @@ Im learning full stack development
 
 I know and understand:
 
-  Javascript
+    Javascript
   
-  Python
+    Python
   
-  HTML
+    HTML
   
-  CSS
+    CSS
 
 https://natdev.uk
