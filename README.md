@@ -1,6 +1,6 @@
-        Hi my name is Nat
+Hi my name is Nat
 
-        Im learning full stack development
+Im learning full stack development
 
     I know and understand:
 
