@@ -25,7 +25,7 @@ const name = {
 		],
 		tools: [
 			"Visual Studio Code",
-			"Tech Soft 2D",
+			"TechSoft 2D",
 			"Blender",
 			"Photoshop", 
 			"CMD"
