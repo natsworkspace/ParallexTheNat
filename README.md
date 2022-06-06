@@ -14,7 +14,7 @@ const name = {
 			"He", 
 			"Him"
 		],
-		about-me: "I am a student, in england studying maths and computer science",
+		about-me: "I am a student, in england studying design technology, maths and computer science",
 		languages: [
 			"Javascript", 
 			"HTML", 
@@ -24,7 +24,9 @@ const name = {
 			"Bash"
 		],
 		tools: [
-			"Visual Studio Code", 
+			"Visual Studio Code",
+			"Tech Soft 2D",
+			"Blender",
 			"Photoshop", 
 			"CMD"
 		],
