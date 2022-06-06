@@ -1,8 +1,51 @@
-
-<div align='center'>
-  
-  <img scr="https://user-images.githubusercontent.com/74879098/172237000-3584c029-aa9a-426e-8b52-524d65dceb26.png"></img>
-    ![image](https://user-images.githubusercontent.com/74879098/172237000-3584c029-aa9a-426e-8b52-524d65dceb26.png)
+<div>
+<h2 align='center'>Hi 👋</h2>
 </div>
 
+About me:
 ---
+<div>
+		
+```javascript
+	const welcome = "Hi"
+	const name = "Nat";
+	const name = {
+			pronouns: [
+				"He", 
+				"Him"
+			],
+			about-me: "I am a student, in england studying maths and computer science",
+			languages: [
+				"Javascript", 
+				"HTML", 
+				"CSS", 
+				"Python", 
+				"MySQL", 
+				"Bash"
+			],
+			tools: [
+				"Visual Studio Code", 
+				"Photoshop", 
+				"CMD"
+			],
+			challenges: "Im currently doing the #100DaysOfCode focused on doing full stack development",
+	};
+```
+My Socials:
+---
+</div>
+<div align='center'>
+<a href="https://www.natdev.uk">
+	website 💻
+</a>
+	|
+<a href="https://twitter.com/TheNat__">
+	twitter 🐦
+</a>
+	|
+<a href="https://www.instagram.com/thenat.png/">
+	instagram 📷
+</a>
+
+	
+</div>
