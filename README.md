@@ -9,27 +9,27 @@ About me:
 ```javascript
 const name = "Nat";
 const name = {
-		pronouns: [
-			"He", 
-			"Him"
-		],
-		about-me: "I am a student, in england studying design technology, maths and computer science",
-		languages: [
-			"Javascript", 
-			"HTML", 
-			"CSS", 
-			"Python", 
-			"MySQL", 
-			"Bash"
-		],
-		tools: [
-			"Visual Studio Code",
-			"TechSoft 2D",
-			"Blender",
-			"Photoshop", 
-			"CMD"
-		],
-		challenges: "Im currently doing the #100DaysOfCode focused on doing full stack development",
+	pronouns: [
+		"He", 
+		"Him"
+	],
+	about-me: "I am a student, in england studying design technology, maths and computer science",
+	languages: [
+		"Javascript", 
+		"HTML", 
+		"CSS", 
+		"Python", 
+		"MySQL", 
+		"Bash"
+	],
+	tools: [
+		"Visual Studio Code",
+		"TechSoft 2D",
+		"Blender",
+		"Photoshop", 
+		"CMD"
+	],
+	challenges: "Im currently doing the #100DaysOfCode focused on doing full stack development",
 };
 ```
 My Socials:
