@@ -7,7 +7,6 @@ About me:
 <div>
 		
 ```javascript
-const welcome = "Hi"
 const name = "Nat";
 const name = {
 		pronouns: [
