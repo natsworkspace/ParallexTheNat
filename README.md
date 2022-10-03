@@ -42,7 +42,7 @@ My Socials:
 </a>
 	|
 <a href="https://www.instagram.com/thenat.png/">
-	instagram 📷
+	📷 instagram 
 </a>
 	
 
