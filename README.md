@@ -30,7 +30,8 @@ const name = {
 		"Photoshop", 
 		"CMD"
 	],
-	challenges: "Im currently doing the #100DaysOfCode focused on doing full stack development",
+	challenges: "Computer science course work"
+	Done: "#100DaysOfCode focused on doing full stack development",
 };
 ```
 My Socials:
