@@ -37,10 +37,6 @@ My Socials:
 ---
 </div>
 <div align='center'>
-<a href="https://www.natdev.uk">
-	website 💻
-</a>
-	|
 <a href="https://twitter.com/TheNat__">
 	twitter 🐦
 </a>
