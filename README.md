@@ -38,7 +38,7 @@ My Socials:
 ---
 </div>
 <div align='center'>
-<a href="https://twitter.com/TheNat__">
+<a href="https://twitter.com/">
 	twitter 🐦
 </a>
 	|
